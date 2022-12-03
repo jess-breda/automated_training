@@ -1,5 +1,5 @@
 # automated_training
-Example protocols written to facilitate or support automated training in the Brody Lab
+Protocols written while in the Brody lab to facilitate or support automated training in the Brody Lab
 
 
 ## Delayed Match to Sample (DMS)
