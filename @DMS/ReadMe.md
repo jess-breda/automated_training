@@ -17,5 +17,8 @@ Delayed Match to Sample protocol and curricula for shaping.
 
 `TrainingSection.m`- The curricula used for progressive automated training. Can control things like, what is the stimulus space, if penalties are on, and if performance is sufficient to move into next curricula stage.
 
+## GUI
+![GUI_DMS](https://user-images.githubusercontent.com/53059059/205456951-eda2e018-916e-4e6b-bb49-cb295c95f9da.PNG)
+
 
 
