@@ -5,7 +5,7 @@ Delayed Match to Sample protocol and curricula for shaping.
 
 `DMS.m` - Primary protocol script that organizes GUI initialization, trial preparation, and end of training logic (e.g. SQL uploads). Specific tasks are organized by subscripts described below.
 
-`SMA.m` - Finite state machine that determines flow during a trial given the shaping variables. See [diagram]https://docs.google.com/drawings/d/1dHWPy06prrFCYhWpjr4Vq3TtNiAzAfdnH_HT0zrb06w/edit?usp=sharing).
+`SMA.m` - Finite state machine that determines flow during a trial given the shaping variables. See [diagram](https://docs.google.com/drawings/d/1dHWPy06prrFCYhWpjr4Vq3TtNiAzAfdnH_HT0zrb06w/edit?usp=sharing).
 
 `HistorySection.m` - tracks what happened on previous trial(s). For example, what was the stimulus? What did the animal answer? Etc.
 
