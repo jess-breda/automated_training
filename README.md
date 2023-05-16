@@ -3,7 +3,7 @@ Protocols written while in the Brody lab to facilitate or support automated trai
 
 
 ## Delayed Match to Sample (DMS2, DMS)
-This protocol and curricula is to train animals on an auditory delayed match to sample (i.e. XOR) task depicted below with DMS2 being the most recent version of the curricula. See XX or [@DMS/Readme.md](https://github.com/jess-breda/automated_training/blob/main/@DMS/ReadMe.md) for implementation level details. 
+This protocol and curricula is to train animals on an auditory delayed match to sample (i.e. XOR) task depicted below with DMS2 being the most recent version of the curricula. See the [DMS2](/@DMS2/ReadMe.md) or [DMS](/@DMS/ReadMe.md) ReadMes for implementation level details. 
 
 ![dms_overview](https://user-images.githubusercontent.com/53059059/205457027-8d7a4d26-d9a5-4977-9465-84aea922e98d.PNG)
 
