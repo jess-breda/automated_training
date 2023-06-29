@@ -5,7 +5,7 @@ Delayed Match to Sample 2.0 Protocol. Upgrading from `DMS` and base code initial
 
 `DMS2.m` - Primary protocol script that organizes GUI initialization, trial preparation, and end of training logic (e.g. SQL uploads). Specific tasks are organized by subscripts described below.
 
-`SMA_*.m` - Finite state machines that determines flow during a trial given the shaping variables. Which SMA is used depends on variable set by user/curricula. Spoke and Habituation are used early in shaping, Cpoke is the primary uage. See cpoke [diagram](https://docs.google.com/drawings/d/1TdGXWv2zME2ZIzvdt-MyJcfGsiPKddUEM4NUAQwQRmo/edit).
+`SMA_*.m` - Finite state machines that determines flow during a trial given the shaping variables. Which SMA is used depends on variable set by user/curricula. Spoke and Habituation are used early in shaping, Cpoke is the primary uage. See cpoke [diagram](https://docs.google.com/drawings/d/1TdGXWv2zME2ZIzvdt-MyJcfGsiPKddUEM4NUAQwQRmo/edit) or spoke [diagram](https://docs.google.com/drawings/d/1SoBx0KA85c8heaQppBEhXACblAK_Ehk5E0UzrogbloM/edit).
 
 `HistorySection.m` - tracks what happened on previous trial(s). For example, what was the stimulus? What did the animal answer? Etc.
 
