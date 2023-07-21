@@ -1,5 +1,5 @@
 # automated_training
-Protocols written while in the Brody lab to facilitate or support automated training in the Brody Lab. Active protocols are kept in a private repository, these are snapshot copies of some of the protocols I've written.
+Protocols written while in the Brody lab to facilitate or support automated training of animals on cognitive tasks. Active protocols are kept in a private repository, these are snapshot copies of some of the protocols I've written.
 
 
 ## Delayed Match to Sample (DMS2, DMS)
